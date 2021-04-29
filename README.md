@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**wbsnail/wbsnail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Apr 2021: Learning [TypeScript](https://www.typescriptlang.org/), [Network Protocols](https://en.wikipedia.org/wiki/Lists_of_network_protocols).
 
-Here are some ideas to get you started:
+```
+- Golang     [███████████████████░░░░░░░]
+- Kubernetes [███████████████████░░░░░░░]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- JavaScript [███████████████████░░░░░░░]
+- TypeScript [██████████░░░░░░░░░░░░░░░░]
+- Vue        [███████████████████░░░░░░░]
+- TailwindCSS[███████████████████░░░░░░░]
+
+- Shell      [█████████████████░░░░░░░░░]
+- Python     [██████████████░░░░░░░░░░░░]
+- PHP        [█████████████░░░░░░░░░░░░░]
+```
+
+Golang|Gin|Kubernetes|Prometheus
+
+JavaScript|TypeScript|Vue|Vite|Bootstrap|jQuery|FontAwesome|Sass|TailwindCSS
+
+Shell|Python|Flask|PHP|Laravel|Eloquent|MySQL|MongoDB|Telegram
+```

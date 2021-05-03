@@ -12,8 +12,8 @@ May 2021: Learning [TypeScript](https://www.typescriptlang.org/), [Network Proto
 - TailwindCSS[███████████████████░░░░░░░]
 
 - Shell      [█████████████████░░░░░░░░░]
-- Python     [██████████████░░░░░░░░░░░░]
-- PHP        [█████████████░░░░░░░░░░░░░]
+- Python     [███████████████░░░░░░░░░░░]
+- PHP        [███████████████░░░░░░░░░░░]
 
 Golang|Gin|Kubernetes|Prometheus
 

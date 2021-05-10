@@ -2,4 +2,5 @@
 
 ## Programming Languages
 
-- [Go](lang/go.md)
+- [Go](lang-go.md)
+- [PHP](lang-php.md)

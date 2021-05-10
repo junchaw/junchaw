@@ -1,4 +1,4 @@
-# Awesome Resources
+# My Awesome List
 
 ## Apps
 

@@ -2,5 +2,8 @@
 
 ## Programming Languages
 
-- [Go](lang-go.md)
-- [PHP](lang-php.md)
+### Awesome PHP 
+
+- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - A simple PHP API extension for DateTime.
+
+

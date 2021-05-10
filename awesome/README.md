@@ -1,5 +1,11 @@
 # Awesome Resources
 
+## Apps
+
+### MacOS
+
+- [System Color Picker | Sindre Sorhus](https://sindresorhus.com/system-color-picker) - Awesome color picker on MacOS!
+
 ## Programming Languages
 
 ### Awesome Go

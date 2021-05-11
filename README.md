@@ -22,6 +22,8 @@ JavaScript|TypeScript|Vue|Vite|Bootstrap|jQuery|FontAwesome|Sass|TailwindCSS
 Shell|Python|Flask|PHP|Laravel|Eloquent|MySQL|MongoDB|Telegram
 ```
 
+[My Blog](./writing)
+
 [My Reading List](./reading)
 
 [My Awesome List](./awesome)

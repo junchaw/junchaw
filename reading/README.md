@@ -20,3 +20,8 @@
 
 [How to generate client codes for Kubernetes Custom Resource Definitions (CRD) | by Roger Liang | ITNEXT](https://itnext.io/how-to-generate-client-codes-for-kubernetes-custom-resource-definitions-crd-b4b9907769ba)
 
+# Jan
+
+## W1
+
+[Is PHP Still Relevant in 2021?](https://betterprogramming.pub/is-php-still-relevant-in-2021-19580c75855)

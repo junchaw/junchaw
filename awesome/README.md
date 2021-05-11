@@ -25,4 +25,4 @@
 
 ### Awesome VPS
 
-[Kvmla](https://www.kvmla.pro/)
+- [Kvmla](https://www.kvmla.pro/)

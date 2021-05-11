@@ -95,6 +95,7 @@
 - [iconfont](https://www.iconfont.cn/) - Free icons, awesome and free.
 - [Favic-o-Matic](https://favicomatic.com/) - Generates favicons.  
 - [Google Fonts](https://fonts.google.com/) - Fonts, by Google.
+- [每日一文](https://meiriyiwen.com/) - 每天随机的一篇文章 ❤️
 
 ## Bypassing the Great Firewall | 翻墙
 

@@ -22,6 +22,11 @@
 
 - [Sentry](https://sentry.io/) - An awesome error reporting platform.
 
+### # Network Protocol 🕸
+
+- [HTTP Documentation](https://httpwg.org/) - The core protocol of the World Wide Web.
+- [rfc.fyi](https://rfc.fyi/) - RFC index.
+
 ### # Other Awesome Stuff 🧦
 
 - [Crontab.guru](https://crontab.guru/) - The quick and simple editor for cron schedule expressions.
@@ -45,9 +50,14 @@
 - [Luxon](https://moment.github.io/luxon/) - A powerful, modern, and friendly wrapper for JavaScript dates and times.
 - [Prism](https://prismjs.com/) - An awesome syntax highlighter, easy to use, save your time.
 
+### # CSS 🎨
+
+- [Tailwind CSS](https://tailwindcss.com/) - Building CSS without writing CSS!
+
 ### # PHP 🐘
 
 - [Documentation](https://www.php.net/) - PHP Documentation.
+- [Laravel](https://laravel.com/) - Where I met web development. ❤️  
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - An awesome PHP API extension for DateTime.
 
 ### # Python 🐍
@@ -60,13 +70,25 @@
 
 - [explainshell.com](https://explainshell.com/) - Explain shell command for you.
 
-## Apps
+## Apps | Websites
 
 ### # MacOS 🖥
 
+- [iTerm2](https://iterm2.com/) - An awesome terminal emulator.
+- [Oh My Zsh](https://ohmyz.sh/) - Unleash your terminal like never before!
+- [sindresohus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt.  
 - [System Color Picker | Sindre Sorhus](https://sindresorhus.com/system-color-picker) - Awesome color picker on MacOS!
 
-## Bypassing the Firewall | 翻墙
+### # Websites
+
+- [draw.io](https://app.diagrams.net/) - The perfect tool for making diagrams and charts, I mean, perfect. 👍
+- [Adobe Color](https://color.adobe.com/explore) - Color palette.
+- [Cool Backgrounds](https://coolbackgrounds.io/) - Really cool backgrounds, try it 👉  
+- [iconfont](https://www.iconfont.cn/) - Free icons, awesome and free.
+- [Favic-o-Matic](https://favicomatic.com/) - Generates favicons.  
+- [Google Fonts](https://fonts.google.com/) - Fonts, by Google.
+
+## Bypassing the Great Firewall | 翻墙
 
 ### # VPS 👾
 

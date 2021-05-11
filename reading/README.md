@@ -30,4 +30,4 @@
 
 ## W1
 
-[Is PHP Still Relevant in 2021?](https://betterprogramming.pub/is-php-still-relevant-in-2021-19580c75855)
+[Is PHP Still Relevant in 2021? | by Burak Karakan | Better Programming](https://betterprogramming.pub/is-php-still-relevant-in-2021-19580c75855)

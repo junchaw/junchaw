@@ -1,10 +1,13 @@
 # My Awesome List
 
+[Awesome Blogs](./blogs.md)
+
 ## Programming
 
 ### # Web Development
 
 - [MDN Web Docs](https://developer.mozilla.org/en-US/) - Everything about web development!
+- [GTmetrix](https://gtmetrix.com/) - How fast does your website load? Find out with GTmetrix. 
 
 ### # Git 🌲
 
@@ -37,6 +40,7 @@
 
 - [Documentation](https://golang.org/doc/) - The official Golang documentation.
 - [Go Web Examples](https://gowebexamples.com/) - Learn web programming in Golang by examples.
+- [Charm](https://charm.sh/) - Awesome command line development tools.  
 - [uniplaces/carbon](https://github.com/uniplaces/carbon) - A simple, semantic and developer-friendly golang package for
   datetime, ported from PHP Carbon library.
 - [golang-module/carbon](https://github.com/golang-module/carbon) - A simple, semantic and developer-friendly golang
@@ -78,11 +82,14 @@
 - [Oh My Zsh](https://ohmyz.sh/) - Unleash your terminal like never before!
 - [sindresohus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt.  
 - [System Color Picker | Sindre Sorhus](https://sindresorhus.com/system-color-picker) - Awesome color picker on MacOS!
+- [ImageOptim](https://imageoptim.com/mac) - Reduces image file sizes.
 
 ### # Websites
 
 - [draw.io](https://app.diagrams.net/) - The perfect tool for making diagrams and charts, I mean, perfect. 👍
-- [Adobe Color](https://color.adobe.com/explore) - Color palette.
+- [Start Bootstrap](https://startbootstrap.com/) - Bootstrap themes, templates, and UI tools.  
+- [Creative Tim](https://www.creative-tim.com/) - Full coded UI tools to create web and mobile apps.
+- [Adobe Color](https://color.adobe.com/explore) - Awesome color palettes.
 - [Cool Backgrounds](https://coolbackgrounds.io/) - Really cool backgrounds, try it 👉  
 - [iconfont](https://www.iconfont.cn/) - Free icons, awesome and free.
 - [Favic-o-Matic](https://favicomatic.com/) - Generates favicons.  

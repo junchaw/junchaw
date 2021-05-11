@@ -20,6 +20,12 @@
 
 [How to generate client codes for Kubernetes Custom Resource Definitions (CRD) | by Roger Liang | ITNEXT](https://itnext.io/how-to-generate-client-codes-for-kubernetes-custom-resource-definitions-crd-b4b9907769ba)
 
+# Apr
+
+## W2
+
+[近几年我在职场踩过的坑 - laike9m's blog](https://laike9m.com/blog/jin-ji-nian-wo-zai-zhi-chang-cai-guo-de-keng,143/)
+
 # Jan
 
 ## W1

@@ -17,7 +17,7 @@ May 2021: Learning [TypeScript](https://www.typescriptlang.org/), [Network Proto
 
 Golang|Gin|Kubernetes|Prometheus
 
-JavaScript|TypeScript|Vue|Vite|Bootstrap|jQuery|FontAwesome|Sass|TailwindCSS
+JavaScript|TypeScript|Vue|Vite|Bootstrap|jQuery|FontAwesome|Sass|TailwindCSS|WindiCSS
 
 Shell|Python|Flask|PHP|Laravel|Eloquent|MySQL|MongoDB|Telegram
 ```

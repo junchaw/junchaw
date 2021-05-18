@@ -20,14 +20,31 @@
 
 [How to generate client codes for Kubernetes Custom Resource Definitions (CRD) | by Roger Liang | ITNEXT](https://itnext.io/how-to-generate-client-codes-for-kubernetes-custom-resource-definitions-crd-b4b9907769ba)
 
-# Apr
+[Kubernetes Informer 源码解析与深度使用 [1/4]: cache 包源码解析与 Informer 的使用](https://wbsnail.com/p/dive-into-kubernetes-informer)
+
+[Kubernetes Informer 源码解析与深度使用 [2/4]: informers 包源码解析与 SharedInformerFactory 的使用，以及 Informer 在实际使用中的最佳实践](https://wbsnail.com/p/dive-into-kubernetes-informer-shared-informer-factory)
+
+[Kubernetes Informer 源码解析与深度使用 [3/4]: 实现自定义资源 (CRD) Informer](https://wbsnail.com/p/dive-into-kubernetes-informer-crd-informer)
+
+[Kubernetes Informer 源码解析与深度使用 [4/4]: dynamic 包源码解析与 DynamicSharedInformerFactory 的使用](https://wbsnail.com/p/dive-into-kubernetes-informer-dynamic-informer)
+
+# Apr, 2021
 
 ## W2
 
 [近几年我在职场踩过的坑 - laike9m's blog](https://laike9m.com/blog/jin-ji-nian-wo-zai-zhi-chang-cai-guo-de-keng,143/)
 
-# Jan
+# Jan, 2021
 
 ## W1
 
 [Is PHP Still Relevant in 2021? | by Burak Karakan | Better Programming](https://betterprogramming.pub/is-php-still-relevant-in-2021-19580c75855)
+
+
+# Aug, 2020
+
+## W1
+
+[Unix, BSD, GNU 和 Linux 之间是什么关系？](https://wbsnail.com/p/difference-between-unix-bsd-gnu-and-linux)
+
+

@@ -57,6 +57,7 @@
 ### # CSS 🎨
 
 - [Tailwind CSS](https://tailwindcss.com/) - Building CSS without writing CSS!
+- [Windi CSS](https://windicss.org/) - Next generation utility-first CSS framework.
 
 ### # PHP 🐘
 
@@ -87,6 +88,7 @@
 ### # Websites
 
 - [draw.io](https://app.diagrams.net/) - The perfect tool for making diagrams and charts, I mean, perfect. 👍
+- [SymbolHound](http://symbolhound.com/) - Search special characters.
 - [Start Bootstrap](https://startbootstrap.com/) - Bootstrap themes, templates, and UI tools.  
 - [Creative Tim](https://www.creative-tim.com/) - Full coded UI tools to create web and mobile apps.
 - [Adobe Color](https://color.adobe.com/explore) - Awesome color palettes.

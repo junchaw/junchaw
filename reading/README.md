@@ -1,5 +1,9 @@
 # May, 2021
 
+## W4
+
+[Using ldflags to Set Version Information for Go Applications](https://www.digitalocean.com/community/tutorials/using-ldflags-to-set-version-information-for-go-applications)
+
 ## W3
 
 [Dynamic Kubernetes Informers | FireHydrant](https://firehydrant.io/blog/dynamic-kubernetes-informers/)

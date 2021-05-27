@@ -32,6 +32,7 @@
 
 ### # Other Awesome Stuff 🧦
 
+- [Shields.io](https://shields.io/) - Quality metadata badges for open source projects ![](https://img.shields.io/badge/%F0%9F%91%8D-Awesome-blue)
 - [Crontab.guru](https://crontab.guru/) - The quick and simple editor for cron schedule expressions.
 
 ## Programming Languages

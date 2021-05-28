@@ -2,8 +2,8 @@
 
 ## # Airports | 机场
 
-- [AmyTelecom](https://www.amysecure.com/) - 支持 SSR，当前使用。
-- [少数派](https://ssp-cloud.net/) - 支持 SSR, V2Ray, Trojan, 当前使用（此少数派非彼少数派）。
+- [AmyTelecom](https://www.amysecure.com/) - 支持 SSR，我现在在用。
+- [少数派](https://ssp-cloud.net/) - 支持 SSR, V2Ray, Trojan, 我现在在用（此少数派非彼少数派）。
 - [DuyaoSS](https://www.duyaoss.com/) - 机场测速和一些介绍。
 
 ## # VPS

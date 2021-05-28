@@ -1,8 +1,8 @@
-# Awesome Blogs
+# Awesome Blogs 📝
 
-## English
+## # English
 
-## Chinese
+## # Chinese
 
 - [DIYgod](https://diygod.me/) - Frontend.
 - [Aylei](https://aleiwu.com/) - Cloud native, Database.

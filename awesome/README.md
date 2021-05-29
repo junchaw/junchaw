@@ -56,6 +56,7 @@
   datetime, ported from PHP Carbon library.
 - [golang-module/carbon](https://github.com/golang-module/carbon) - A simple, semantic and developer-friendly golang
   package for datetime, ported from PHP Carbon library.
+- [dustin/go-humanize](https://github.com/dustin/go-humanize) - Go Humans! (formatters for units to human friendly sizes)
 
 ### # JavaScript 🧤
 

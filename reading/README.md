@@ -4,9 +4,15 @@
 
 [Using ldflags to Set Version Information for Go Applications](https://www.digitalocean.com/community/tutorials/using-ldflags-to-set-version-information-for-go-applications)
 
+[Configure Access to Multiple Clusters | Kubernetes](https://kubernetes.io/docs/tasks/access-application-cluster/configure-access-multiple-clusters/)
+
+[Extend kubectl with plugins | Kubernetes](https://kubernetes.io/docs/tasks/extend-kubectl/kubectl-plugins/)
+
 ## W3
 
 [Dynamic Kubernetes Informers | FireHydrant](https://firehydrant.io/blog/dynamic-kubernetes-informers/)
+
+[Prevent Attacks and Redirect Users with OAuth 2.0 State Parameters](https://auth0.com/docs/protocols/state-parameters)
 
 ## W2
 

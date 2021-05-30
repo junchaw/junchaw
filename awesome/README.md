@@ -33,6 +33,7 @@
 
 ### # Other Awesome Stuff 🧦
 
+- [Awesome Kubernetes ☸️](./kubernetes.md)
 - [Git](https://git-scm.com/) - Git!
 - [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud) - Where I
   learned Git myself.
@@ -41,8 +42,6 @@
 - [Shields.io](https://shields.io/) - Quality metadata badges for open source
   projects ![](https://img.shields.io/badge/%F0%9F%91%8D-Awesome-blue)
 - [Crontab.guru](https://crontab.guru/) - The quick and simple editor for cron schedule expressions.
-- [Kubernetes](https://kubernetes.io/) - Production-grade container orchestration.
-- [etcd](https://etcd.io/) - Distributed key-value store used in Kubernetes.
 - [Redis](https://redis.io/) - You must know it.
 
 ## Programming Languages

@@ -2,6 +2,8 @@
 
 ## W4
 
+[如何优雅地使用 kubectl 访问多集群多 namespace ☕️—— kubectl-cf, kubectx 和 kubens - wbsnail](https://wbsnail.com/p/switch-between-kubectl-contexts)
+
 [Using ldflags to Set Version Information for Go Applications](https://www.digitalocean.com/community/tutorials/using-ldflags-to-set-version-information-for-go-applications)
 
 [Configure Access to Multiple Clusters | Kubernetes](https://kubernetes.io/docs/tasks/access-application-cluster/configure-access-multiple-clusters/)
@@ -30,13 +32,13 @@
 
 [How to generate client codes for Kubernetes Custom Resource Definitions (CRD) | by Roger Liang | ITNEXT](https://itnext.io/how-to-generate-client-codes-for-kubernetes-custom-resource-definitions-crd-b4b9907769ba)
 
-[Kubernetes Informer 源码解析与深度使用 [1/4]: cache 包源码解析与 Informer 的使用](https://wbsnail.com/p/dive-into-kubernetes-informer)
+[Kubernetes Informer 源码解析与深度使用 [1/4]: cache 包源码解析与 Informer 的使用 - wbsnail](https://wbsnail.com/p/dive-into-kubernetes-informer)
 
-[Kubernetes Informer 源码解析与深度使用 [2/4]: informers 包源码解析与 SharedInformerFactory 的使用，以及 Informer 在实际使用中的最佳实践](https://wbsnail.com/p/dive-into-kubernetes-informer-shared-informer-factory)
+[Kubernetes Informer 源码解析与深度使用 [2/4]: informers 包源码解析与 SharedInformerFactory 的使用，以及 Informer 在实际使用中的最佳实践 - wbsnail](https://wbsnail.com/p/dive-into-kubernetes-informer-shared-informer-factory)
 
-[Kubernetes Informer 源码解析与深度使用 [3/4]: 实现自定义资源 (CRD) Informer](https://wbsnail.com/p/dive-into-kubernetes-informer-crd-informer)
+[Kubernetes Informer 源码解析与深度使用 [3/4]: 实现自定义资源 (CRD) Informer - wbsnail](https://wbsnail.com/p/dive-into-kubernetes-informer-crd-informer)
 
-[Kubernetes Informer 源码解析与深度使用 [4/4]: dynamic 包源码解析与 DynamicSharedInformerFactory 的使用](https://wbsnail.com/p/dive-into-kubernetes-informer-dynamic-informer)
+[Kubernetes Informer 源码解析与深度使用 [4/4]: dynamic 包源码解析与 DynamicSharedInformerFactory 的使用 - wbsnail](https://wbsnail.com/p/dive-into-kubernetes-informer-dynamic-informer)
 
 # Apr, 2021
 
@@ -55,6 +57,6 @@
 
 ## W1
 
-[Unix, BSD, GNU 和 Linux 之间是什么关系？](https://wbsnail.com/p/difference-between-unix-bsd-gnu-and-linux)
+[Unix, BSD, GNU 和 Linux 之间是什么关系？ - wbsnail](https://wbsnail.com/p/difference-between-unix-bsd-gnu-and-linux)
 
 

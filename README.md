@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-May 2021: Learning [TypeScript](https://www.typescriptlang.org/), [Network Protocols](https://en.wikipedia.org/wiki/Lists_of_network_protocols).
+June 2021: Learning [TypeScript](https://www.typescriptlang.org/), [Network Protocols](https://en.wikipedia.org/wiki/Lists_of_network_protocols), looking for a new job.
 
 ```
 - Golang     [███████████████████░░░░░░░]

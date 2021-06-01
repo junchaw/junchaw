@@ -1,5 +1,7 @@
 # May, 2021
 
+[如何优雅地使用 kubectl 访问多集群多 namespace ☕️—— kubectl-cf, kubectx 和 kubens - wbsnail](https://wbsnail.com/p/switch-between-kubectl-contexts)
+
 [Kubernetes Informer 源码解析与深度使用 [1/4]: cache 包源码解析与 Informer 的使用](https://wbsnail.com/p/dive-into-kubernetes-informer)
 
 [Kubernetes Informer 源码解析与深度使用 [2/4]: informers 包源码解析与 SharedInformerFactory 的使用，以及 Informer 在实际使用中的最佳实践](https://wbsnail.com/p/dive-into-kubernetes-informer-shared-informer-factory)

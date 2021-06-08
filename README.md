@@ -9,7 +9,6 @@ June 2021: Learning [TypeScript](https://www.typescriptlang.org/), [Network Prot
 - JavaScript [███████████████████░░░░░░░]
 - TypeScript [██████████░░░░░░░░░░░░░░░░]
 - Vue        [███████████████████░░░░░░░]
-- TailwindCSS[███████████████████░░░░░░░]
 
 - Shell      [█████████████████░░░░░░░░░]
 - Python     [███████████████░░░░░░░░░░░]

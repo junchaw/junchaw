@@ -69,6 +69,7 @@
 
 - [Tailwind CSS](https://tailwindcss.com/) - Building CSS without writing CSS!
 - [Windi CSS](https://windicss.org/) - Next generation utility-first CSS framework.
+- [Tailblocks](https://tailblocks.cc/) - Ready to use Tailwind CSS blocks.
 
 ### # Shell 🐚
 

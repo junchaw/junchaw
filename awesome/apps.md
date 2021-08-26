@@ -1,6 +1,6 @@
 # Awesome Apps 🖥
 
-## # Linux
+## # Terminal
 
 - [Oh My Zsh](https://ohmyz.sh/) - Unleash your terminal like never before!
 - [sindresohus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt.

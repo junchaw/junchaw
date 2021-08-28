@@ -1,3 +1,7 @@
+# Aug, 2021
+
+[A Beginner-Friendly Introduction to Containers, VMs and Docker](https://www.freecodecamp.org/news/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b/)
+
 # Jun, 2021
 
 [SIG CLI](https://kubectl.docs.kubernetes.io/), Kubernetes CLI SIG, Guides and API References for Kubectl and Kustomize.

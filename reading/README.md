@@ -1,70 +1,51 @@
-# Aug, 2021
+# Jun 2021
 
-[A Beginner-Friendly Introduction to Containers, VMs and Docker](https://www.freecodecamp.org/news/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b/)
+[SIG CLI](https://kubectl.docs.kubernetes.io/),
+Kubernetes CLI SIG, Guides and API References for Kubectl and Kustomize.
 
-# Jun, 2021
-
-[SIG CLI](https://kubectl.docs.kubernetes.io/), Kubernetes CLI SIG, Guides and API References for Kubectl and Kustomize.
-
-# May, 2021
-
-## W4
-
-[如何优雅地使用 kubectl 访问多集群多 namespace ☕️—— kubectl-cf, kubectx 和 kubens - wbsnail](https://wbsnail.com/p/switch-between-kubectl-contexts)
+# May 2021
 
 [Using ldflags to Set Version Information for Go Applications](https://www.digitalocean.com/community/tutorials/using-ldflags-to-set-version-information-for-go-applications)
+,
+`ldflags` stands for linker flags, allows you to change values of imported packages at build time from the command line.
 
 [Configure Access to Multiple Clusters | Kubernetes](https://kubernetes.io/docs/tasks/access-application-cluster/configure-access-multiple-clusters/)
+,
+contexts, kubeconfig, and KUBECONFIG environment variable...
 
 [Extend kubectl with plugins | Kubernetes](https://kubernetes.io/docs/tasks/extend-kubectl/kubectl-plugins/)
+,
+a plugin is a standalone executable file, whose name begins with kubectl-.
 
-## W3
+[Bitnami Engineering: A deep dive into Kubernetes controllers](https://docs.bitnami.com/tutorials/a-deep-dive-into-kubernetes-controllers)
+,
+how Kubernetes controller works.
 
-[Dynamic Kubernetes Informers | FireHydrant](https://firehydrant.io/blog/dynamic-kubernetes-informers/)
-
-[Prevent Attacks and Redirect Users with OAuth 2.0 State Parameters](https://auth0.com/docs/protocols/state-parameters)
-
-## W2
-
-[Bitnami Engineering: A deep dive into Kubernetes controllers](https://engineering.bitnami.com/articles/a-deep-dive-into-kubernetes-controllers.html)
-
-[Bitnami Engineering: Kubewatch, an example of Kubernetes custom controller](https://engineering.bitnami.com/articles/kubewatch-an-example-of-kubernetes-custom-controller.html)
+[Bitnami Engineering: Kubewatch, an example of Kubernetes custom controller](https://docs.bitnami.com/tutorials/kubewatch-an-example-of-kubernetes-custom-controller/)
 
 [Dynamic Kubernetes Informers | FireHydrant](https://firehydrant.io/blog/dynamic-kubernetes-informers/)
 
-[client-go/main.go at master · kubernetes/client-go · GitHub](https://github.com/kubernetes/client-go/blob/master/examples/workqueue/main.go)
+[Workqueue Example - kubernetes/client-go - GitHub](https://github.com/kubernetes/client-go/tree/master/examples/workqueue)
+,
+an example demonstrates how to write a controller which follows the states of watched resources.
 
-[GitHub - kubernetes/sample-controller: Repository for sample controller. Complements sample-apiserver](https://github.com/kubernetes/sample-controller)
+[kubernetes/sample-controller - GitHub](https://github.com/kubernetes/sample-controller),
+an official example of Kubernetes controller.
 
 [Kubernetes Deep Dive: Code Generation for CustomResources](https://www.openshift.com/blog/kubernetes-deep-dive-code-generation-customresources)
+,
+use code-generator to generate Kubernetes client code.
 
 [How to generate client codes for Kubernetes Custom Resource Definitions (CRD) | by Roger Liang | ITNEXT](https://itnext.io/how-to-generate-client-codes-for-kubernetes-custom-resource-definitions-crd-b4b9907769ba)
+,
+use code-generator to generate Kubernetes client code.
 
-[Kubernetes Informer 源码解析与深度使用 [1/4]: cache 包源码解析与 Informer 的使用 - wbsnail](https://wbsnail.com/p/dive-into-kubernetes-informer)
-
-[Kubernetes Informer 源码解析与深度使用 [2/4]: informers 包源码解析与 SharedInformerFactory 的使用，以及 Informer 在实际使用中的最佳实践 - wbsnail](https://wbsnail.com/p/dive-into-kubernetes-informer-shared-informer-factory)
-
-[Kubernetes Informer 源码解析与深度使用 [3/4]: 实现自定义资源 (CRD) Informer - wbsnail](https://wbsnail.com/p/dive-into-kubernetes-informer-crd-informer)
-
-[Kubernetes Informer 源码解析与深度使用 [4/4]: dynamic 包源码解析与 DynamicSharedInformerFactory 的使用 - wbsnail](https://wbsnail.com/p/dive-into-kubernetes-informer-dynamic-informer)
-
-# Apr, 2021
-
-## W2
+# Apr 2021
 
 [近几年我在职场踩过的坑 - laike9m's blog](https://laike9m.com/blog/jin-ji-nian-wo-zai-zhi-chang-cai-guo-de-keng,143/)
-
-# Jan, 2021
-
-## W1
+<!--埋头干活时记得抬头看看-->
 
 [Is PHP Still Relevant in 2021? | by Burak Karakan | Better Programming](https://betterprogramming.pub/is-php-still-relevant-in-2021-19580c75855)
-
-
-# Aug, 2020
-
-## W1
-
-[Unix, BSD, GNU 和 Linux 之间是什么关系？ - wbsnail](https://wbsnail.com/p/difference-between-unix-bsd-gnu-and-linux)
+<!--Time to say goodbye-->
 
 

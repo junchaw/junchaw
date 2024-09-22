@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Apr 2024: [Kubespray](https://kubespray.io/#/), [Terraform](https://www.terraform.io/), [TypeScript](https://www.typescriptlang.org/), [Network Protocols](https://en.wikipedia.org/wiki/Lists_of_network_protocols).
+Sep 2024: [Kubespray](https://kubespray.io/#/), [Terraform](https://www.terraform.io/), [TypeScript](https://www.typescriptlang.org/), [Network Protocols](https://en.wikipedia.org/wiki/Lists_of_network_protocols).
 
 ```
 - Golang     [███████████████████░░░░░░░]
